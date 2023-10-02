@@ -6,6 +6,6 @@
 
 [Frontend Mentor](https://lautaro-roomhome.netlify.app/) 
 
-##Desafío Frontendmentor
+## Desafío Frontendmentor
 
 - [Ver desafío aquí] (https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq)
